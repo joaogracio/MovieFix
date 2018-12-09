@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ProjectTreeState projectID="D3_aA2aAUACWAQ3s" projectPath="C:\Users\marce\Documents\GitHub\MovieFix\MovieFix.vpp">
-	<TreeState name="ModelRepository" viewX="0" viewY="0"/>
+	<TreeState name="ModelRepository" viewX="0" viewY="0">
+		<ExpandedPath>ModelRepository</ExpandedPath>
+	</TreeState>
 	<TreeState name="DiagramNavigator" viewX="0" viewY="0">
 		<ExpandedPath>DiagramNavigator</ExpandedPath>
-		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
 		<ExpandedPath>DiagramNavigator,Requirements Capturing</ExpandedPath>
-		<ExpandedPath>DiagramNavigator,Database Modeling</ExpandedPath>
-		<ExpandedPath>DiagramNavigator,Business Modeling</ExpandedPath>
-		<ExpandedPath>DiagramNavigator,SysML</ExpandedPath>
-		<ExpandedPath>DiagramNavigator,Project Management</ExpandedPath>
-		<ExpandedPath>DiagramNavigator,SoaML</ExpandedPath>
-		<ExpandedPath>DiagramNavigator,Impact Analysis</ExpandedPath>
-		<ExpandedPath>DiagramNavigator,Cloud Architecture</ExpandedPath>
-		<ExpandedPath>DiagramNavigator,Chart</ExpandedPath>
-		<ExpandedPath>DiagramNavigator,Strategic Analysis</ExpandedPath>
-		<ExpandedPath>DiagramNavigator,Network Design</ExpandedPath>
-		<ExpandedPath>DiagramNavigator,Others</ExpandedPath>
-		<SelectedPath>UseCaseDiagram</SelectedPath>
+		<ExpandedPath>WFDesktopDiagram</ExpandedPath>
+		<ExpandedPath>WFWebDiagram</ExpandedPath>
+		<SelectedPath>WFWebDiagram,1MB2W2aAUACWARW4</SelectedPath>
 	</TreeState>
 	<TreeState name="ClassBrowser" viewX="0" viewY="0"/>
 	<TreeState name="LogicalView" viewX="0" viewY="0"/>
